@@ -69,11 +69,7 @@ This project is a Streamlit web application that transcribes YouTube videos usin
 
 ## Contributing
 
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before getting started.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+Contributions are welcome!
 
 ## Acknowledgments
 
