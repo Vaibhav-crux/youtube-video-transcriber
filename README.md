@@ -48,9 +48,10 @@ This project is a Streamlit web application that transcribes YouTube videos usin
 
 1. Open the application in your web browser.
 2. Paste the YouTube video URL into the input field.
-3. Click the "Transcribe" button to start the transcription process.
+3. Click the "Enter" button to start the transcription process.
 4. Once the transcription is complete, you can ask questions about the video content in the provided input field.
 5. The application will generate an answer based on the transcription.
+6. Reset the page to paste the new YouTube video URL into the input field and generate a transcribe.
 
 ## Screenshots
 
