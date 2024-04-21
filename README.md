@@ -76,4 +76,3 @@ Contributions are welcome!
 - AssemblyAI for providing the transcription service.
 - Google for the Generative AI technology.
 - Streamlit for the web application framework.
-```
