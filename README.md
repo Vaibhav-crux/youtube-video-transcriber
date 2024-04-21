@@ -71,9 +71,3 @@ This project is a Streamlit web application that transcribes YouTube videos usin
 ## Contributing
 
 Contributions are welcome!
-
-## Acknowledgments
-
-- AssemblyAI for providing the transcription service.
-- Google for the Generative AI technology.
-- Streamlit for the web application framework.
