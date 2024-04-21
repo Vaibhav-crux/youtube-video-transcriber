@@ -22,7 +22,7 @@ This project is a Streamlit web application that transcribes YouTube videos usin
 
 1. Clone the repository:
    ```
-   https://github.com/Vaibhav-crux/video-to-textx.git
+   git clone https://github.com/Vaibhav-crux/video-to-textx.git
    ```
 2. Navigate to the project directory:
    ```
