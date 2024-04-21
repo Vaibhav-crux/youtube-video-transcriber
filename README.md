@@ -1,3 +1,6 @@
+To generate a README.md file that reflects the current state of your project, including the new features and updates, you can follow the template below. This template is tailored to your project's specifics, including the use of AssemblyAI for transcription, Google Generative AI for question answering, and Streamlit for the web application interface.
+
+```markdown
 # YouTube Video Transcriber
 
 This project is a Streamlit web application that transcribes YouTube videos using AssemblyAI and Google Generative AI. It allows users to input a YouTube video URL, transcribes the video, and then uses the transcription to answer questions about the video content. The transcriptions are saved in a SQLite database for future reference.
@@ -66,3 +69,18 @@ This project is a Streamlit web application that transcribes YouTube videos usin
 ### Asked Question
 ![4](https://github.com/Vaibhav-crux/video-to-textx/assets/122672330/93bf16ce-e6d4-4905-84bd-5c447c78317d)
 ![5](https://github.com/Vaibhav-crux/video-to-textx/assets/122672330/1fd53784-cf5c-466f-b00f-e9a025e1311e)
+
+## Contributing
+
+Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before getting started.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+
+- AssemblyAI for providing the transcription service.
+- Google for the Generative AI technology.
+- Streamlit for the web application framework.
+```
