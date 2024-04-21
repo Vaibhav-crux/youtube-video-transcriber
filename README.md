@@ -1,6 +1,3 @@
-To generate a README.md file that reflects the current state of your project, including the new features and updates, you can follow the template below. This template is tailored to your project's specifics, including the use of AssemblyAI for transcription, Google Generative AI for question answering, and Streamlit for the web application interface.
-
-```markdown
 # YouTube Video Transcriber
 
 This project is a Streamlit web application that transcribes YouTube videos using AssemblyAI and Google Generative AI. It allows users to input a YouTube video URL, transcribes the video, and then uses the transcription to answer questions about the video content. The transcriptions are saved in a SQLite database for future reference.
