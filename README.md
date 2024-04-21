@@ -41,7 +41,7 @@ This project is a Streamlit web application that transcribes YouTube videos usin
      ```
 5. Run the Streamlit app:
    ```
-   streamlit run app.py
+   streamlit run app/main.py
    ```
 
 ## Usage
