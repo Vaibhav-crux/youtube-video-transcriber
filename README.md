@@ -1,6 +1,6 @@
 # YouTube Video Transcriber
 
-This project is a Streamlit web application that transcribes YouTube videos using AssemblyAI and Google Generative AI. It allows users to input a YouTube video URL, transcribes the video, and then uses the transcription to answer questions about the video content. The transcriptions are saved in a SQLite database for future reference.
+This project is a Streamlit web application that transcribes YouTube videos using AssemblyAI and Google Generative AI. It allows users to input a YouTube video URL, transcribe the video, and then uses the transcription to answer questions about the video content. The transcriptions are saved in a SQLite database for future reference.
 
 ## Features
 
@@ -22,7 +22,7 @@ This project is a Streamlit web application that transcribes YouTube videos usin
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Vaibhav-crux/video-to-textx.git
+   git clone https://github.com/Vaibhav-crux/youtube-video-transcriber.git
    ```
 2. Navigate to the project directory:
    ```
